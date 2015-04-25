@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperPrint xmlns="http://jasperreports.sourceforge.net/jasperreports/print" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/print http://jasperreports.sourceforge.net/xsd/jasperprint.xsd" name="AircraftReportColumnIndex" pageWidth="842" pageHeight="595" topMargin="30" leftMargin="20" bottomMargin="30" rightMargin="20" orientation="Landscape" locale="en_US" timezone="Europe/Bucharest">
+	<property name="net.sf.jasperreports.export.xml.start.page.index" value="0"/>
+	<property name="net.sf.jasperreports.export.xml.end.page.index" value="0"/>
+	<property name="net.sf.jasperreports.export.xml.page.count" value="1"/>
+	<origin band="pageHeader"/>
+	<origin band="detail"/>
+	<page>
+		<text textAlignment="Left" textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="724d23ca-6ad1-4be5-bae1-77c07dd31ba0" x="20" y="30" width="121" height="24" origin="0" srcId="1" printId="1"/>
+			<textContent><![CDATA[Nume]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="1e85a3f6-ba9d-47a7-8f25-cf37f5b4448d" x="158" y="30" width="131" height="24" origin="0" srcId="2" printId="1"/>
+			<textContent><![CDATA[Categorie]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="044a8958-4960-4fa3-9cd6-c594595c521a" x="323" y="30" width="239" height="24" origin="0" srcId="3" printId="1"/>
+			<textContent><![CDATA[Data lansarii]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="5c652097-658e-4082-a198-1cb897b43f9c" x="582" y="30" width="108" height="24" origin="0" srcId="4" printId="1"/>
+			<textContent><![CDATA[Rating]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="e1971c52-4a20-472b-befb-daffe3853101" x="711" y="30" width="108" height="24" origin="0" srcId="5" printId="1"/>
+			<textContent><![CDATA[ID IMDB]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="64" width="121" height="24" origin="1" srcId="6" printId="1"/>
+			<textContent><![CDATA[Defiance]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="64" width="108" height="24" origin="1" srcId="7" printId="1"/>
+			<textContent><![CDATA[7.2]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="64" width="131" height="24" origin="1" srcId="8" printId="1"/>
+			<textContent><![CDATA[[Action, Drama, History]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt1034303" anchorName="1034303">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="64" width="108" height="24" origin="1" srcId="9" printId="1"/>
+			<textContent><![CDATA[1034303]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="64" width="239" height="24" origin="1" srcId="10" printId="1"/>
+			<textContent><![CDATA[Sat Feb 16 00:00:00 EET 2008]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="94" width="121" height="24" origin="1" srcId="6" printId="2"/>
+			<textContent><![CDATA[Pulp Fiction]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="94" width="108" height="24" origin="1" srcId="7" printId="2"/>
+			<textContent><![CDATA[7.2]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="94" width="131" height="24" origin="1" srcId="8" printId="2"/>
+			<textContent><![CDATA[[Crime, Drama, Thriller]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0110912" anchorName="0110912">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="94" width="108" height="24" origin="1" srcId="9" printId="2"/>
+			<textContent><![CDATA[0110912]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="94" width="239" height="24" origin="1" srcId="10" printId="2"/>
+			<textContent><![CDATA[Mon Nov 14 00:00:00 EET 1994]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="124" width="121" height="24" origin="1" srcId="6" printId="3"/>
+			<textContent><![CDATA[Fight Club]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="124" width="108" height="24" origin="1" srcId="7" printId="3"/>
+			<textContent><![CDATA[7.2]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="124" width="131" height="24" origin="1" srcId="8" printId="3"/>
+			<textContent><![CDATA[[Drama]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0137523" anchorName="0137523">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="124" width="108" height="24" origin="1" srcId="9" printId="3"/>
+			<textContent><![CDATA[0137523]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="124" width="239" height="24" origin="1" srcId="10" printId="3"/>
+			<textContent><![CDATA[Mon Nov 15 00:00:00 EET 1999]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="154" width="121" height="24" origin="1" srcId="6" printId="4"/>
+			<textContent><![CDATA[The Imitation Game]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="154" width="108" height="24" origin="1" srcId="7" printId="4"/>
+			<textContent><![CDATA[8.2]]></textContent>
+		</text>
+		<text textHeight="23.28125" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="154" width="131" height="24" origin="1" srcId="8" printId="4"/>
+			<textContent><![CDATA[[Biography, Drama, Thriller]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt2084970" anchorName="2084970">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="154" width="108" height="24" origin="1" srcId="9" printId="4"/>
+			<textContent><![CDATA[2084970]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="154" width="239" height="24" origin="1" srcId="10" printId="4"/>
+			<textContent><![CDATA[Sun Jan 25 00:00:00 EET 2015]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="184" width="121" height="24" origin="1" srcId="6" printId="5"/>
+			<textContent><![CDATA[3 Idiots]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="184" width="108" height="24" origin="1" srcId="7" printId="5"/>
+			<textContent><![CDATA[8.5]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="184" width="131" height="24" origin="1" srcId="8" printId="5"/>
+			<textContent><![CDATA[[Comedy, Drama]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt1187043" anchorName="1187043">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="184" width="108" height="24" origin="1" srcId="9" printId="5"/>
+			<textContent><![CDATA[1187043]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="184" width="239" height="24" origin="1" srcId="10" printId="5"/>
+			<textContent><![CDATA[Mon Jan 25 00:00:00 EET 2010]]></textContent>
+		</text>
+		<text textHeight="23.28125" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="214" width="121" height="24" origin="1" srcId="6" printId="6"/>
+			<textContent><![CDATA[Star Wars: Episode V - The Empire Strikes ]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="214" width="108" height="24" origin="1" srcId="7" printId="6"/>
+			<textContent><![CDATA[8.8]]></textContent>
+		</text>
+		<text textHeight="23.28125" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="214" width="131" height="24" origin="1" srcId="8" printId="6"/>
+			<textContent><![CDATA[[Action, Adventure, Fantasy]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0080684" anchorName="0080684">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="214" width="108" height="24" origin="1" srcId="9" printId="6"/>
+			<textContent><![CDATA[0080684]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="214" width="239" height="24" origin="1" srcId="10" printId="6"/>
+			<textContent><![CDATA[Sun Jul 20 00:00:00 EEST 1980]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="244" width="121" height="24" origin="1" srcId="6" printId="7"/>
+			<textContent><![CDATA[Schindler's List]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="244" width="108" height="24" origin="1" srcId="7" printId="7"/>
+			<textContent><![CDATA[8.9]]></textContent>
+		</text>
+		<text textHeight="23.28125" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="244" width="131" height="24" origin="1" srcId="8" printId="7"/>
+			<textContent><![CDATA[[Biography, Drama, History]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0108052" anchorName="0108052">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="244" width="108" height="24" origin="1" srcId="9" printId="7"/>
+			<textContent><![CDATA[0108052]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="244" width="239" height="24" origin="1" srcId="10" printId="7"/>
+			<textContent><![CDATA[Thu Mar 04 00:00:00 EET 1993]]></textContent>
+		</text>
+		<text textHeight="23.28125" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="274" width="121" height="24" origin="1" srcId="6" printId="8"/>
+			<textContent><![CDATA[The Lord of the Rings: The Return of the King]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="274" width="108" height="24" origin="1" srcId="7" printId="8"/>
+			<textContent><![CDATA[8.9]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="274" width="131" height="24" origin="1" srcId="8" printId="8"/>
+			<textContent><![CDATA[[Adventure, Fantasy]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0167260" anchorName="0167260">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="274" width="108" height="24" origin="1" srcId="9" printId="8"/>
+			<textContent><![CDATA[0167260]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="274" width="239" height="24" origin="1" srcId="10" printId="8"/>
+			<textContent><![CDATA[Sat Jan 17 00:00:00 EET 2004]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="304" width="121" height="24" origin="1" srcId="6" printId="9"/>
+			<textContent><![CDATA[The Dark Knight]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="304" width="108" height="24" origin="1" srcId="7" printId="9"/>
+			<textContent><![CDATA[9.0]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="304" width="131" height="24" origin="1" srcId="8" printId="9"/>
+			<textContent><![CDATA[[Action, Crime, Drama]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0468569" anchorName="0468569">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="304" width="108" height="24" origin="1" srcId="9" printId="9"/>
+			<textContent><![CDATA[0468569]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="304" width="239" height="24" origin="1" srcId="10" printId="9"/>
+			<textContent><![CDATA[Mon Aug 18 00:00:00 EEST 2008]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="334" width="121" height="24" origin="1" srcId="6" printId="10"/>
+			<textContent><![CDATA[The Godfather: Part II]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="334" width="108" height="24" origin="1" srcId="7" printId="10"/>
+			<textContent><![CDATA[9.1]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="334" width="131" height="24" origin="1" srcId="8" printId="10"/>
+			<textContent><![CDATA[[Crime, Drama]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0071562" anchorName="0071562">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="334" width="108" height="24" origin="1" srcId="9" printId="10"/>
+			<textContent><![CDATA[0071562]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="334" width="239" height="24" origin="1" srcId="10" printId="10"/>
+			<textContent><![CDATA[Mon Jan 20 00:00:00 EET 1975]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="364" width="121" height="24" origin="1" srcId="6" printId="11"/>
+			<textContent><![CDATA[The Godfather]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="364" width="108" height="24" origin="1" srcId="7" printId="11"/>
+			<textContent><![CDATA[9.2]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="364" width="131" height="24" origin="1" srcId="8" printId="11"/>
+			<textContent><![CDATA[[Crime, Drama]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0068646" anchorName="0068646">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="364" width="108" height="24" origin="1" srcId="9" printId="11"/>
+			<textContent><![CDATA[0068646]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="364" width="239" height="24" origin="1" srcId="10" printId="11"/>
+			<textContent><![CDATA[Mon Apr 24 00:00:00 EET 1972]]></textContent>
+		</text>
+		<text textHeight="23.28125" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="14399970-e399-41e0-b6f9-1218079fd56c" x="20" y="394" width="121" height="24" origin="1" srcId="6" printId="12"/>
+			<textContent><![CDATA[The Shawshank Redemption]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="4511b90c-16b8-4348-ab38-45fb3a7facd7" x="582" y="394" width="108" height="24" origin="1" srcId="7" printId="12"/>
+			<textContent><![CDATA[9.3]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="b5b0fe03-9b8f-48c6-ba51-c218427028f6" x="158" y="394" width="131" height="24" origin="1" srcId="8" printId="12"/>
+			<textContent><![CDATA[[Crime, Drama]]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375" hyperlinkType="Reference" hyperlinkReference="http://www.imdb.com/title/tt0111161" anchorName="0111161">
+			<reportElement uuid="79f29828-9804-4295-89a4-6ec68ae77ac4" x="711" y="394" width="108" height="24" origin="1" srcId="9" printId="12"/>
+			<textContent><![CDATA[0111161]]></textContent>
+		</text>
+		<text textHeight="11.640625" lineSpacingFactor="1.1640625" leadingOffset="-2.359375">
+			<reportElement uuid="c3094477-bb5e-4d5c-a440-8d7c7f2a1d3e" x="323" y="394" width="239" height="24" origin="1" srcId="10" printId="12"/>
+			<textContent><![CDATA[Mon Nov 14 00:00:00 EET 1994]]></textContent>
+		</text>
+	</page>
+</jasperPrint>
